@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh750
-- 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Machine Learning, NLP. 
+- 🌱 I’m currently learning various ML algorithms for time-series forecasting
 - 📫 How to reach me : Send a mail to saurabhpage1@gmail.com
 
 <!---
